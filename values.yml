@@ -2,3 +2,4 @@ gitProvider: github
 artifactory: artifactory
 repoPath: hanankem/jfrog-pipelines-maven-sample
 deployerRepo: dev-libs-snapshot
+resolverRepo: dev-libs-release
